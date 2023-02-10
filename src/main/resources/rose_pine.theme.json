@@ -50,15 +50,15 @@
 
       "errorForeground": "love",
 
-      "borderColor": "overlay",
+      "borderColor": "base",
       "disabledBorderColor": "highlightInactive",
       "focusColor": "rose",
       "focusedBorderColor": "highlight",
       "hoverBorderColor": "highlight",
       "pressedBorderColor": "highlight",
 
-      "separatorColor": "subtle",
-      "lineSeparatorColor": "subtle",
+      "separatorColor": "base",
+      "lineSeparatorColor": "base",
 
       "Label": {
         "background": "surface",
@@ -94,8 +94,8 @@
       }
     },
     "Borders": {
-      "color": "surface",
-      "ContrastBorderColor": "surface"
+      "color": "base",
+      "ContrastBorderColor": "base"
     },
     "Editor": {
       "background": "base",
@@ -108,7 +108,8 @@
       "underlinedTabBackground": "highlightOverlay",
       "underlineColor": "pine",
       "underlineHeight": 4,
-      "inactiveColoredFileBackground": "inactive"
+      "inactiveColoredFileBackground": "inactive",
+      "borderColor": "base"
     },
     "Lesson": {
       "shortcutBackground": "surface",
