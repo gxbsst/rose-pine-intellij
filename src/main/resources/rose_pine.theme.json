@@ -4,7 +4,7 @@
   "author": "jmorjsm",
   "editorScheme": "/rose_pine.xml",
   "colors": {
-    "base": "#191724",
+    "base": "#000000",
     "surface": "#1f1d2e",
     "overlay": "#26233a",
     "inactive": "#555169",
@@ -30,36 +30,28 @@
     "*": {
       "background": "base",
       "foreground": "text",
-
-      "infoForeground":"inactive",
+      "infoForeground": "inactive",
       "successForeground": "inactive",
       "selectionBackground": "highlight",
       "selectionForeground": "text",
       "selectionInactiveBackground": "highlightInactive",
       "selectionBackgroundInactive": "highlightInactive",
-
       "disabledBackground": "surface",
       "inactiveBackground": "surface",
-
       "disabledForeground": "text",
       "disabledText": "text",
       "inactiveForeground": "text",
-
       "acceleratorForeground": "iris",
       "acceleratorSelectionForeground": "iris",
-
       "errorForeground": "love",
-
       "borderColor": "base",
       "disabledBorderColor": "highlightInactive",
       "focusColor": "rose",
       "focusedBorderColor": "highlight",
       "hoverBorderColor": "highlight",
       "pressedBorderColor": "highlight",
-
       "separatorColor": "base",
       "lineSeparatorColor": "base",
-
       "Label": {
         "background": "surface",
         "foreground": "iris",
@@ -70,7 +62,6 @@
       "hoverBackground": "iris",
       "pressedBackground": "iris"
     },
-
     "Button": {
       "startBackground": "subtle",
       "endBackground": "subtle",
@@ -86,7 +77,6 @@
         "focusedBorderColor": "love"
       }
     },
-
     "SearchEverywhere": {
       "Tab": {
         "selectedBackground": "highlightOverlay",
@@ -143,9 +133,9 @@
       "Yellow": "gold1a",
       "Blue": "pine1a",
       "Green": "foam1a",
-      "Orange":  "rose1a",
+      "Orange": "rose1a",
       "Rose": "love1a",
-      "Violet":  "iris1a"
+      "Violet": "iris1a"
     },
     "Component": {
       "infoForeground": "iris"
